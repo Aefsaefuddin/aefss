@@ -7,6 +7,6 @@ ini adalah tampilan pertama pada menu Github
 Maka Klik Sign Up, maka tampilan akan berubah lalu masukan email yang mau kalian daftarkan
 ![Gambar2](screenshot/ss2.png)
 Buatlah daftar diri kalian sesuai yang kalian inginkan
-![img]screenshot/ss3.png
+![Gambar3](screenshot/ss3.png)
 Lalu akan muncul verify `"pick spiral galaxy"`
-![img]screenshot/ss4.png
+![Gambar4](screenshot/ss4.png)
