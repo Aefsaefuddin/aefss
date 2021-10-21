@@ -8,6 +8,6 @@ Maka Klik Sign Up, maka tampilan akan berubah lalu masukan email yang mau kalian
 ![Gambar2](screenshot/ss2.png)
 Buatlah daftar diri kalian sesuai yang kalian inginkan
 ![Gambar3](screenshot/ss3.png)
-Lalu akan muncul verify `"pick spiral galaxy"`
 
+Lalu akan muncul verify `"pick spiral galaxy"`
 ![Gambar4](screenshot/ss4.png)
