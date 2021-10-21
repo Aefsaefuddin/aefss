@@ -4,5 +4,9 @@
 ### Menuju Github
 ini adalah tampilan pertama pada menu Github
 ![Gambar1](screenshot/ss1.png)
-Maka Klik Sign Up, Lalu tampilan akan berubah Seperti ini
+Maka Klik Sign Up, maka tampilan akan berubah lalu masukan email yang mau kalian daftarkan
 ![Gambar2](screenshot/ss2.png)
+Buatlah daftar diri kalian sesuai yang kalian inginkan
+![img]screenshot/ss3.png
+Lalu akan muncul verify `"pick spiral galaxy"`
+![img]screenshot/ss4.png
