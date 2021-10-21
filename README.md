@@ -20,3 +20,5 @@ Kemudian Masuk Tampilan Untuk Membuat New Repository
 Lalu Buat Name Repository Yang Anda Inginkan Lalu Klik Publik kemudian Klik Readme file lalu Create Repository
 ![Gambar6](screenshot/ss6.png)
 Maka Akun Github Anda Siap Digunakan
+
+# Kesimpulan
