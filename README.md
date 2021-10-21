@@ -12,6 +12,6 @@ Buatlah daftar diri kalian sesuai yang kalian inginkan
 Lalu akan muncul verify `"pick spiral galaxy"`
 ![Gambar4](screenshot/ss4.png)
 Kemduian Masuk Tampilan Untuk Membuat New Repository
-![img]screenshot/ss.5.png
+![Gambar5](screenshot/ss.5.png)
 Lalu Buat Name Repository Yang Anda Inginkan Lalu Klik Publik kemudian Klik Readme file lalu Create Repository
-![img]screenshot/ss6.png
+![Gambar6](screenshot/ss6.png)
