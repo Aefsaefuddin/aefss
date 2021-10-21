@@ -22,3 +22,7 @@ Lalu Buat Name Repository Yang Anda Inginkan Lalu Klik Publik kemudian Klik Read
 Maka Akun Github Anda Siap Digunakan
 
 # Kesimpulan
+<p>Niat lah terlebih dahulu sebelum melakukan sesuatu karena kalau sudah niat semua akan terasa mudah ketimbang hanya paksaan hanya akan membuat kebatinan
+
+# Saran
+<p>Maafkan Penulis Bila Banyak Kesalahan Karena Saya Juga Baru Mencobanya Masih Dibilang Awam Tetapi Saya Akan Terus Mencoba
