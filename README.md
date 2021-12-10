@@ -41,4 +41,4 @@ Maka Akun Github Anda Siap Digunakan.
 <p>Maafkan Penulis Bila Banyak Kesalahan Karena Saya Juga Baru Mencobanya Masih Dibilang Awam Tetapi Saya Akan Terus Mencoba. Jika ada saran Maka Dituangkan dalam Kolom Komentar.
 
 
-**`Sekian dan Terima Kasih.`**
+>**`Sekian dan Terima Kasih.`**
